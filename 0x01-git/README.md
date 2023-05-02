@@ -1,1 +1,2 @@
-This is my second task
+My first readme
+In ALX our mantra is #Do 
